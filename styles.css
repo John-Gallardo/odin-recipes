@@ -1,7 +1,12 @@
 * {
     font-family: "Arial", sans-serif;
+    margin: 5px;
 }
 
 img {
     border: solid black 3px;
+}
+
+a {
+    margin: 0px;
 }
